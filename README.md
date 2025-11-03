@@ -16,3 +16,6 @@
 
 *Enlace competición (Kaggle):*  
 https://www.kaggle.com/competitions/udea-ai-4-eng-20252-pruebas-saber-pro-colombia
+
+*Enlace Video Explicación estado avance del proyecto.
+https://youtu.be/7OlDua2U3xU
