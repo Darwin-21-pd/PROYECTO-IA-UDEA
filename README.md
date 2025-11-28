@@ -19,3 +19,7 @@ https://www.kaggle.com/competitions/udea-ai-4-eng-20252-pruebas-saber-pro-colomb
 
 *Enlace Video Explicación estado avance del proyecto.
 https://youtu.be/7OlDua2U3xU
+
+*Enlace Video Explicación Entrega Final.
+https://youtu.be/li9C8TOgPKE
+
